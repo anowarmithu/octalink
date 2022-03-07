@@ -1,1 +1,19 @@
 Octalink Website
+
+1.  top header
+2. responsive menu
+3. slider
+4.  contact us
+5. product showcase with side menu
+6. partners
+footer
+
+ Landing page
+ about page
+ product page
+ product detail page
+ partner page
+ contact page
+ blog page
+
+
